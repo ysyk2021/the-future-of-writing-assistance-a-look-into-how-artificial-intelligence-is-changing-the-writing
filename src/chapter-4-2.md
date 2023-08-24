@@ -1,5 +1,3 @@
-Supporting Language Learners with AI-Enabled Language Translation and Adaptation
-=================================================================================================================================================
 
 Language learners face unique challenges when it comes to writing education. These challenges include difficulties with grammar, vocabulary, and syntax, as well as cultural differences that may impact their writing style. Fortunately, AI technology can provide language learners with personalized support through language translation and adaptation tools.
 

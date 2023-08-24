@@ -1,5 +1,3 @@
-Different Types of AI Techniques and Platforms for Writing Assistance Use Cases
-==============================================================================================================================================
 
 AI technology is changing the landscape of writing assistance, providing new and innovative ways to improve writing skills and enhance the writing process. Here are some different types of AI techniques and platforms for writing assistance use cases:
 

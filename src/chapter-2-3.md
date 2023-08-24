@@ -1,5 +1,3 @@
-Tools and Software for AI-Enabled Writing Planning and Performance Tracking
-==========================================================================================================================================
 
 AI technology is changing the writing assistance landscape, providing new and innovative ways to improve writing skills and enhance the writing process. Here are some tools and software for AI-enabled writing planning and performance tracking:
 

@@ -1,5 +1,3 @@
-Chapter 5: Writing Improvement Strategy with AI
-===============================================
 
 AI technology can provide individuals with new and innovative ways to improve their writing skills. Here are some strategies for designing and implementing a writing improvement plan with the help of AI:
 

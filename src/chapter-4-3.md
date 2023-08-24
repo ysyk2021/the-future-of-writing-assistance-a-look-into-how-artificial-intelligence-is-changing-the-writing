@@ -1,5 +1,3 @@
-Promoting Digital Literacy and Critical Thinking Skills with AI-Enabled Information Retrieval and Analysis
-===========================================================================================================================================================================
 
 Artificial intelligence (AI) technology can be used to promote digital literacy and critical thinking skills in writing education. In this chapter, we will explore some AI applications and techniques for writing education.
 

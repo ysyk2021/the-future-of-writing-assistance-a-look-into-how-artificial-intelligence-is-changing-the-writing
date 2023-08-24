@@ -1,5 +1,3 @@
-Chapter 4: AI Applications and Techniques for Writing Education
-===============================================================
 
 AI technology is transforming the landscape of writing education, providing new and innovative ways to enhance writing instruction and assessment, support language learners, and promote digital literacy and critical thinking skills. Here are some applications and techniques for leveraging AI in writing education:
 

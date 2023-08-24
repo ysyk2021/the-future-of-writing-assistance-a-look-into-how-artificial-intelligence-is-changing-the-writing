@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Writing Assistance
-=============================================================
 
 AI technology is rapidly changing the writing assistance landscape, providing new and innovative ways to improve writing skills and enhance the writing process. Here are some topics for understanding AI technology for writing assistance:
 

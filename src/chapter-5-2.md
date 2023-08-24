@@ -1,5 +1,3 @@
-Overcoming Implementation Barriers and Resistance to Change with AI-Enabled Organizational Change Management and Training
-==========================================================================================================================================================================
 
 While AI-enabled writing tools offer numerous benefits for improving writing skills and optimizing the writing process, implementing them can face resistance and barriers within organizations. In this chapter, we will explore how to overcome implementation barriers and resistance to change with AI-enabled organizational change management and training.
 

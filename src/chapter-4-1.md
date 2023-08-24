@@ -1,5 +1,3 @@
-Enhancing Writing Instruction and Assessment with AI-Enabled Writing Evaluation and Feedback
-=============================================================================================================================================================
 
 AI technology is changing the landscape of writing education, providing new and innovative ways to enhance writing instruction and assessment. Here are some applications and techniques for enhancing writing instruction and assessment with AI-enabled writing evaluation and feedback:
 

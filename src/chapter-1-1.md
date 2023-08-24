@@ -1,5 +1,3 @@
-The Evolution of Writing Assistance and the Role of AI in Transforming the Writing Process
-===================================================================================================================
 
 Writing assistance has evolved significantly over the years, from basic spellcheckers to more advanced grammar and style checking tools. With the rise of AI technology, the writing improvement process is undergoing another transformation. In this chapter, we will explore the evolution of writing assistance and the role of AI in transforming the writing process.
 

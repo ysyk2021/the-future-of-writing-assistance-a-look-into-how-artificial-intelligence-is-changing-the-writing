@@ -1,5 +1,3 @@
-Measuring the Effectiveness and Benefits of AI-Enabled Writing Improvement for Writer Performance and Success
-============================================================================================================================================================================
 
 As AI technology continues to transform the writing improvement process, it is important to evaluate its impact on writer performance and success. In this chapter, we will explore how to measure the effectiveness and benefits of AI-enabled writing improvement.
 

@@ -1,5 +1,4 @@
-Chapter 12: Different Types of AI Techniques and Platforms for Writing Assistance Use Cases
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of AI techniques and platforms used for writing assistance across different use cases. These innovative technologies leverage artificial intelligence to improve writing skills, enhance productivity, and provide personalized support to writers.
 

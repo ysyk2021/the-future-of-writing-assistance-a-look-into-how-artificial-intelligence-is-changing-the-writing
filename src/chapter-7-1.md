@@ -1,5 +1,4 @@
-Chapter 14: Emerging Trends and Opportunities in AI for Writing Improvement and Education
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the emerging trends and opportunities in AI for writing improvement and education. As artificial intelligence continues to advance, it presents new possibilities for transforming the way we approach writing instruction, feedback, and overall education.
 

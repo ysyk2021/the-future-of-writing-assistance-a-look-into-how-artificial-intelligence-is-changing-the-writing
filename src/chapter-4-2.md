@@ -1,5 +1,4 @@
-Chapter 9: Supporting Language Learners with AI-Enabled Language Translation and Adaptation
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) is revolutionizing language learning by providing support through AI-enabled language translation and adaptation tools. These tools assist language learners in overcoming linguistic barriers, enhancing their language skills, and promoting cross-cultural communication.
 

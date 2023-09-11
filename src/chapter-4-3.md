@@ -1,5 +1,4 @@
-Chapter 8: Promoting Digital Literacy and Critical Thinking Skills with AI-Enabled Information Retrieval and Analysis
-=====================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the role of artificial intelligence (AI) in promoting digital literacy and critical thinking skills through AI-enabled information retrieval and analysis. As the abundance of online information continues to grow, leveraging AI tools becomes crucial for navigating and evaluating information effectively.
 

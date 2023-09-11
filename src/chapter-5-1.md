@@ -1,5 +1,4 @@
-Chapter 17: Designing and Implementing Your Writing Improvement Plan with AI-Enabled Strategic Alignment and Resource Allocation
-================================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how organizations can design and implement a writing improvement plan using AI-enabled strategic alignment and resource allocation. By strategically aligning AI-driven writing assistance tools with organizational goals and effectively allocating resources, organizations can maximize the benefits of AI in the writing improvement process.
 

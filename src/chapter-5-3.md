@@ -1,5 +1,4 @@
-Chapter 13: Leveraging AI Insights and Analytics for Continuous Writing Improvement and Optimization
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how writers can leverage AI insights and analytics to achieve continuous writing improvement and optimization. By harnessing the power of artificial intelligence, writers can gain valuable feedback, identify areas for improvement, track progress, and optimize their writing skills effectively.
 

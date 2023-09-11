@@ -1,5 +1,4 @@
-Chapter 10: Basic Principles and Processes of AI Algorithms and Machine Learning Models for Natural Language Processing (NLP) and Text Analysis
-===============================================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the fundamental principles and processes of AI algorithms and machine learning models used in Natural Language Processing (NLP) and text analysis. Understanding these core concepts is essential for comprehending how artificial intelligence (AI) is transforming the writing improvement process.
 

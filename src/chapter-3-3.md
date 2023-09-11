@@ -1,5 +1,4 @@
-Chapter 18: Increasing Text Quality and Relevance with AI-Enabled Content Generation and Optimization
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how organizations can leverage AI-enabled content generation and optimization techniques to increase text quality and relevance. By harnessing the power of artificial intelligence, organizations can enhance their writing improvement process and produce high-quality, engaging content that resonates with their target audience.
 

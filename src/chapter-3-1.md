@@ -1,5 +1,4 @@
-Chapter 20: Enhancing Writing Clarity and Coherence with AI-Enabled Automatic Summarization and Paraphrasing
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) can enhance writing clarity and coherence through AI-enabled automatic summarization and paraphrasing techniques. By leveraging the power of AI, organizations and individuals can improve the readability and comprehensibility of their written content while maintaining the integrity of the original message.
 

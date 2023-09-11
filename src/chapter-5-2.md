@@ -1,5 +1,4 @@
-Chapter 15: Overcoming Implementation Barriers and Resistance to Change with AI-Enabled Organizational Change Management and Training
-=====================================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how organizations can overcome implementation barriers and resistance to change when adopting AI-enabled writing assistance tools. Implementing new technologies like artificial intelligence requires careful consideration of organizational change management strategies and comprehensive training programs to ensure a smooth transition and maximize the benefits of these tools.
 

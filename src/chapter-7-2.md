@@ -1,5 +1,4 @@
-Chapter 16: Challenges and Risks of AI Adoption in Writing Assistance and How to Overcome Them
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the challenges and risks associated with the adoption of AI in writing assistance and discuss strategies to overcome them. While AI holds immense potential for transforming the writing improvement process, it's important to address these challenges proactively to ensure successful implementation.
 

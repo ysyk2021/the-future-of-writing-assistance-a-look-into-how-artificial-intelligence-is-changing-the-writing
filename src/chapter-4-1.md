@@ -1,5 +1,4 @@
-Chapter 7: Enhancing Writing Instruction and Assessment with AI-Enabled Writing Evaluation and Feedback
-=======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ways in which artificial intelligence (AI) is revolutionizing writing instruction and assessment. By leveraging AI-enabled writing evaluation and feedback tools, educators and learners can enhance the effectiveness of writing instruction, provide targeted feedback, and facilitate continuous improvement in writing skills.
 

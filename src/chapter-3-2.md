@@ -1,5 +1,4 @@
-Chapter 19: Improving Writing Style and Tone with AI-Enabled Grammar and Style Checking
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) can enhance writing style and tone through AI-enabled grammar and style checking. With the help of AI-powered tools, organizations and individuals can improve their writing by ensuring grammatical accuracy, enhancing clarity, and refining the overall style and tone of their content.
 
